@@ -1,0 +1,128 @@
+.color{
+    background-color: #f0fff0;
+    padding-bottom: 5px;
+}
+
+.img-size{
+    margin-top: 5px;
+    width: 300px;
+}
+.container{
+    margin-bottom: 5px;
+}
+.my-button{
+    font-size: 12px;
+    color: white;
+    text-align: center;
+    border-radius: 30px;
+    margin: auto;
+    padding: 8px 16px 8px 16px;
+    font-weight: 500;
+    background-color: #0ae985;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+}
+
+.b-shadaw{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgb(80, 72, 74);
+}
+.middle-container{
+    margin-top: 50px;
+}
+.icon img{
+    width: 40px;
+    padding-top: 40px;
+    padding-bottom: 30Ppx;
+}
+.icon{
+    text-align: center;
+}
+
+.b-shadaw:hover{
+    color: darkblue;
+    background-color: darkorange;
+    text-decoration: none;
+}
+.footer-icon img{
+    height: 3px;
+    width: 5px;
+}
+.card-img-top{
+    height: 80pxpx;
+    font-weight: 80px0px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+     box-shadow: 5px 5px 10px lightgray;
+     padding: 20px;
+     cursor: pointer;
+}
+
+.footer-icon img{
+    width: 20px;
+}
+.card:hover{
+    background-color: #f0fff0;
+    text-decoration: none;
+    color: black;
+}
+.online-cls{
+    text-align: center;
+    color: blueviolet;
+    
+}
+
+.online-cls:hover{
+    color: blue;
+    size: 400px;
+}
+.photo img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.last{
+    padding-bottom: 20px;
+    padding-left: 100px;
+    background-color: #f0fff0;
+}
+
+.testimonoial{
+    text-align: center;
+     margin: 50px;
+     color:blueviolet;
+     
+}
+
+.testimonoial2{
+    text-align: justify;
+    padding-top: 50px;
+
+}
+
+.testimonoial:hover{
+    color: blue;
+}
+
+.footers{
+    background-color:lightyellow;
+}
+.lr{
+    color: blue;
+}
+.course:hover{
+    color: mediumblue;
+}
+
+.fotcls{
+    text-align: center;
+}
+
+.footers:hover{
+    background-color: lightsalmon;
+}
